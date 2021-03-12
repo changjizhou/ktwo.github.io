@@ -98,3 +98,5 @@ friends: [
         href: "http://ingf.github.io/"
     }
 ]
+
+theme: jekyll-theme-merlot
